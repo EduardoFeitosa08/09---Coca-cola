@@ -32,6 +32,10 @@ header{
     justify-content: flex-start;
 }
 
+.container-itubaina {
+    max-width: 100px;
+}
+
 main{
     flex-grow: 1;
     display: flex;
